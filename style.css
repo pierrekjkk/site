@@ -2,3 +2,7 @@ body{
 color: rgb(185, 76, 207);
 background-color: black;
 }
+
+h1{
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
